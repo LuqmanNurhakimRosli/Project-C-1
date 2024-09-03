@@ -13,4 +13,9 @@ int main () {
     // printf("RM %.1f\n",item1); = RM10.5, kalau nak 2 decimal jadi %.2f
 
     //%1 = minimum field widtsh
+
+    const float PI = 3.14232392;
+    printf("NUmber iof Pi is %lf!", PI);
+
+    return 0;
 }
